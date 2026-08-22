@@ -57,8 +57,6 @@ I enjoy taking a problem from idea to implementation: understanding requirements
 
 ## ⭐ Featured Projects
 
-> These are projects I am building and documenting as part of my practical software and AI/ML portfolio. Results and performance metrics are reported only after they have been measured.
-
 ### 💻 Software Development & AI/ML Practice
 
 A structured workspace for Python, Java, DSA, testing, refactoring and AI/ML experiments.
@@ -67,45 +65,45 @@ A structured workspace for Python, Java, DSA, testing, refactoring and AI/ML exp
 
 🔗 **[View Repository](https://github.com/Vikas3655v/Vikas)**
 
-### 🤖 AI-Powered Smart Retail Surveillance & Personalized Recommendations
+### 📚 Library Management System
 
-A planned AI/Computer Vision project combining retail surveillance concepts with customer-behaviour analysis and personalized recommendations.
+A Java console application demonstrating domain modelling, encapsulation, collections, validation and unit testing.
 
-**Focus:** Python • Computer Vision • Deep Learning • AI/ML
+**Stack:** Java • Maven • JUnit 5 • OOP
 
-**Status:** Portfolio project planned/in development — implementation and measured results will be added as completed.
-
-### 🎯 Real-Time Object Detection & Activity Recognition
-
-A planned computer-vision project for real-time object detection and activity-recognition research.
-
-**Focus:** Python • OpenCV • YOLO • Deep Learning
-
-**Status:** Planned/in development.
+🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/library-management-system)**
 
 ### 🌱 Plant Disease Recognition using Deep Learning
 
-A planned image-classification project for plant disease recognition using a deep-learning workflow.
+A reproducible CNN baseline for directory-structured leaf-image classification, including training and inference scripts. Dataset and model weights remain local.
 
-**Focus:** Python • TensorFlow/Keras • CNN • OpenCV
+**Stack:** Python • TensorFlow • CNN • NumPy • Pillow
 
-**Status:** Planned/in development.
+🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/plant-disease-recognition)**
 
-### 🛡️ Advanced Counter-Drone System for a Localized Network
+### 🎯 Real-Time Object Detection & Activity Recognition
 
-A research-oriented project exploring localized-network concepts for counter-drone detection and monitoring. Implementation details will be documented as they are developed and validated.
+A YOLO/OpenCV detection pipeline for webcam or video inference with timestamped detection-event export. Higher-level activity recognition remains a future module.
 
-**Focus:** Networking • Computer Vision • AI/ML • Security Research
+**Stack:** Python • YOLO • OpenCV
 
-**Status:** Research/planning stage.
+🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/object-detection-activity-recognition)**
 
-### 📚 Library Management System
+### 🤖 Smart Retail Surveillance & Personalized Recommendations
 
-A software-development project focused on core library-management workflows such as books, members and borrowing operations. Existing implementation work is currently located inside the `Vikas1` practice repository.
+A modular prototype connecting detection events to a transparent, rule-based recommendation layer. The current version intentionally avoids unsupported claims about customer identity or intent.
 
-**Focus:** Java • OOP • Application Development
+**Stack:** Python • Computer Vision • AI/ML • Explainable Rules
 
-**Status:** Existing practice implementation; candidate for extraction into a dedicated portfolio repository after cleanup and validation.
+🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/smart-retail-surveillance)**
+
+### 🛡️ Localized Counter-Drone Network Monitoring
+
+A defensive telemetry-anomaly prototype for local monitoring and alerting. It is intentionally limited to detection and analysis and does not implement interference or takeover capabilities.
+
+**Stack:** Python • Networking Concepts • Telemetry Analysis
+
+🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/counter-drone-local-network)**
 
 ---
 
@@ -138,7 +136,7 @@ A software-development project focused on core library-management workflows such
 
 </div>
 
-> My contribution graph is intended to represent genuine development work. I do not use artificial commits, backdated commits, or meaningless changes to inflate activity.
+> My contribution graph represents genuine development work. I do not use artificial commits, backdated commits, or meaningless changes to inflate activity.
 
 ---
 
