@@ -35,7 +35,7 @@ I enjoy taking a problem from idea to implementation: understanding requirements
 
 ### 👨‍💻 Programming
 
-`C` `C++` `Java` `Python` `JavaScript` `Dart` `SQL`
+ `C++` `Java` `Python` `JavaScript` `SQL`
 
 ### 🌐 Web & Application Development
 
