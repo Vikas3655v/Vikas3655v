@@ -30,19 +30,99 @@ I enjoy taking a problem from idea to implementation: understanding requirements
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming
-`C++` `Java` `Python` `JavaScript` `SQL`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />
+<img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />
+<img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="SQL" />
+
+<br>
+
+<b>C++</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>SQL</b>
+
+</div>
 
 ### 🌐 Web & Application Development
-`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `Flutter` `Bootstrap`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" height="55" alt="Express" />
+<img src="https://skillicons.dev/icons?i=flutter" height="55" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap" />
+
+<br>
+
+<b>HTML</b>&nbsp;&nbsp;&nbsp;<b>CSS</b>&nbsp;&nbsp;&nbsp;<b>JavaScript</b>&nbsp;&nbsp;&nbsp;<b>React</b>&nbsp;&nbsp;&nbsp;<b>Node.js</b>&nbsp;&nbsp;&nbsp;<b>Express</b>&nbsp;&nbsp;&nbsp;<b>Flutter</b>&nbsp;&nbsp;&nbsp;<b>Bootstrap</b>
+
+</div>
 
 ### 🤖 AI/ML & Data Science
-`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib` `Seaborn`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch" />
+<img src="https://skillicons.dev/icons?i=sklearn" height="55" alt="Scikit-learn" />
+<img src="https://skillicons.dev/icons?i=opencv" height="55" alt="OpenCV" />
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />
+
+<br>
+
+<b>TensorFlow</b>&nbsp;&nbsp;&nbsp;<b>PyTorch</b>&nbsp;&nbsp;&nbsp;<b>Scikit-learn</b>&nbsp;&nbsp;&nbsp;<b>OpenCV</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
 
 ### 🗄️ Databases & Data Platforms
-`SQL` `SQLite` `MongoDB` `RDBMS` `NoSQL` `ETL` `Data Warehouse` `Data Lake`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="55" alt="SQLite" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />
+
+<br>
+
+<b>SQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>SQLite</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>RDBMS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NoSQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ETL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Data Warehouse</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Data Lake</b>
+
+</div>
 
 ### ☁️ Cloud & Tools
-`AWS` `Microsoft Azure` `Oracle Cloud` `Git` `GitHub` `VS Code` `Google Colab` `Kaggle` `Postman`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" height="55" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=azure" height="55" alt="Microsoft Azure" />
+<img src="https://skillicons.dev/icons?i=oracle" height="55" alt="Oracle Cloud" />
+<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman" />
+
+<br>
+
+<b>AWS</b>&nbsp;&nbsp;&nbsp;<b>Microsoft Azure</b>&nbsp;&nbsp;&nbsp;<b>Oracle Cloud</b>&nbsp;&nbsp;&nbsp;<b>Git</b>&nbsp;&nbsp;&nbsp;<b>GitHub</b>&nbsp;&nbsp;&nbsp;<b>VS Code</b>&nbsp;&nbsp;&nbsp;<b>Postman</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+
+</div>
 
 ---
 
