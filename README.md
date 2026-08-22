@@ -35,7 +35,7 @@ I enjoy taking a problem from idea to implementation: understanding requirements
 
 ### 👨‍💻 Programming
 
- `C++` `Java` `Python` `JavaScript` `SQL`
+`C++` `Java` `Python` `JavaScript` `SQL`
 
 ### 🌐 Web & Application Development
 
@@ -57,53 +57,45 @@ I enjoy taking a problem from idea to implementation: understanding requirements
 
 ## ⭐ Featured Projects
 
-### 💻 Software Development & AI/ML Practice
+### 🤖 AI-Powered Smart Surveillance & Personalized Store Recommendations
 
-A structured workspace for Python, Java, DSA, testing, refactoring and AI/ML experiments.
+A modular AI/computer-vision project focused on surveillance events and personalized store recommendations.
 
-**Focus:** Python • Java • DSA • OOP • Testing • Clean Code
+**Stack:** Python • Computer Vision • AI/ML • Recommendation Logic
 
-🔗 **[View Repository](https://github.com/Vikas3655v/Vikas)**
+🔗 **[View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/smart-retail-surveillance)**
 
 ### 📚 Library Management System
 
-A Java console application demonstrating domain modelling, encapsulation, collections, validation and unit testing.
+A Java application demonstrating object-oriented design, book management, validation, collections, and unit testing.
 
 **Stack:** Java • Maven • JUnit 5 • OOP
 
-🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/library-management-system)**
+🔗 **[View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/library-management-system)**
 
-### 🌱 Plant Disease Recognition using Deep Learning
+### 🛡️ Advance Counter Drone System for Localized Networks
 
-A reproducible CNN baseline for directory-structured leaf-image classification, including training and inference scripts. Dataset and model weights remain local.
+A defensive network-monitoring and telemetry-anomaly project focused on detecting suspicious telemetry patterns and generating alerts.
 
-**Stack:** Python • TensorFlow • CNN • NumPy • Pillow
+**Stack:** Python • Telemetry Analysis • Networking Concepts
 
-🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/plant-disease-recognition)**
+🔗 **[View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/counter-drone-local-network)**
 
-### 🎯 Real-Time Object Detection & Activity Recognition
+---
 
-A YOLO/OpenCV detection pipeline for webcam or video inference with timestamped detection-event export. Higher-level activity recognition remains a future module.
+## 🌱 Additional AI/ML Work
 
-**Stack:** Python • YOLO • OpenCV
+### Plant Disease Recognition using Deep Learning
 
-🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/object-detection-activity-recognition)**
+A reproducible deep-learning image-classification pipeline with training, evaluation, inference, and an interactive Streamlit application.
 
-### 🤖 Smart Retail Surveillance & Personalized Recommendations
+🔗 **[View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/plant-disease-recognition)**
 
-A modular prototype connecting detection events to a transparent, rule-based recommendation layer. The current version intentionally avoids unsupported claims about customer identity or intent.
+### Real-Time Object Detection & Activity Recognition
 
-**Stack:** Python • Computer Vision • AI/ML • Explainable Rules
+A YOLO/OpenCV video-inference pipeline with detection-event logging and a foundation for higher-level activity analysis.
 
-🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/smart-retail-surveillance)**
-
-### 🛡️ Localized Counter-Drone Network Monitoring
-
-A defensive telemetry-anomaly prototype for local monitoring and alerting. It is intentionally limited to detection and analysis and does not implement interference or takeover capabilities.
-
-**Stack:** Python • Networking Concepts • Telemetry Analysis
-
-🔗 **[View Implementation](https://github.com/Vikas3655v/Vikas/tree/main/projects/counter-drone-local-network)**
+🔗 **[View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/object-detection-activity-recognition)**
 
 ---
 
