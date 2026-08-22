@@ -1,6 +1,4 @@
-<div align="center">
-
-# 👋 Hi, I'm Vikas Handage
+# 👋 Hi there, I'm Vikas Handage!
 
 ### 💻 Information Technology Graduate | Software Developer | AI/ML Enthusiast | Data Analytics
 
@@ -8,11 +6,9 @@
 <a href="https://www.linkedin.com/in/vikas-handage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vikashandage06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Software+Developer;AI%2FML+Enthusiast;Data+Analytics+Explorer;Full+Stack+Developer;Always+Learning+%26+Building+%F0%9F%9A%80" />
-
-</div>
 
 ---
 
@@ -34,23 +30,18 @@ I enjoy taking a problem from idea to implementation: understanding requirements
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming
-
 `C++` `Java` `Python` `JavaScript` `SQL`
 
 ### 🌐 Web & Application Development
-
 `HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `Flutter` `Bootstrap`
 
 ### 🤖 AI/ML & Data Science
-
 `TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
 ### 🗄️ Databases & Data Platforms
-
 `SQL` `SQLite` `MongoDB` `RDBMS` `NoSQL` `ETL` `Data Warehouse` `Data Lake`
 
 ### ☁️ Cloud & Tools
-
 `AWS` `Microsoft Azure` `Oracle Cloud` `Git` `GitHub` `VS Code` `Google Colab` `Kaggle` `Postman`
 
 ---
@@ -102,10 +93,8 @@ A YOLO/OpenCV video-inference pipeline with detection-event logging and a founda
 ## 📊 GitHub Statistics
 
 <div align="center">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vikas3655v&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas3655v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 </div>
 
 ---
@@ -113,9 +102,7 @@ A YOLO/OpenCV video-inference pipeline with detection-event logging and a founda
 ## 🔥 GitHub Streak
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Vikas3655v&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
@@ -123,9 +110,7 @@ A YOLO/OpenCV video-inference pipeline with detection-event logging and a founda
 ## 🐍 Contribution Graph
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Vikas3655v/Vikas3655v/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
 </div>
 
 > My contribution graph represents genuine development work. I do not use artificial commits, backdated commits, or meaningless changes to inflate activity.
@@ -200,11 +185,9 @@ I'm interested in **software development, AI/ML, data analytics, and technology 
 ## 🌐 Connect With Me
 
 <div align="center">
-
 <a href="https://github.com/Vikas3655v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vikas-handage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vikashandage06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 </div>
 
 ---
