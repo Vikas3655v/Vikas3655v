@@ -1,22 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Vikas Handage!
+# 👋 Hi, I'm Vikas Handage
 
-### 🎓 Information Technology Graduate | 💻 Software Developer | 🤖 AI/ML Enthusiast
+### 💻 Information Technology Graduate | Software Developer | AI/ML Enthusiast | Data Analytics
 
-<a href="https://github.com/Vikas3655v">
-  <img src="https://img.shields.io/badge/GitHub-Vikas3655v-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vikas-handage">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vikashandage06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://github.com/Vikas3655v"><img src="https://img.shields.io/badge/GitHub-Vikas3655v-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikas-handage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vikashandage06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;AI%2FML+Enthusiast;Data+Analytics+Explorer;Full+Stack+Developer;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Software+Developer;AI%2FML+Enthusiast;Data+Analytics+Explorer;Full+Stack+Developer;Always+Learning+%26+Building+%F0%9F%9A%80" />
 
 </div>
 
@@ -24,138 +18,109 @@
 
 ## 🚀 About Me
 
-I'm an **Information Technology graduate from Alliance University, Bengaluru**, passionate about software development, Artificial Intelligence, Machine Learning, data analytics, and cloud technologies.
+I'm an **Information Technology graduate from Alliance University, Bengaluru**, interested in building practical software, AI/ML solutions, and data-driven applications.
 
-I enjoy turning ideas into practical solutions — from building web and application-based systems to developing machine learning models and exploring AI-powered solutions for real-world problems.
+I enjoy taking a problem from idea to implementation: understanding requirements, choosing an appropriate technology, writing maintainable code, testing it, and documenting what I built.
 
-- 💻 Interested in **Software Development & Full-Stack Development**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 📊 Exploring **Data Analytics & Data Science**
-- ☁️ Interested in **Cloud Computing & Data Platforms**
-- 🧠 Strong foundation in **Data Structures, Algorithms, OOP, DBMS & Computer Networks**
-- 🚀 Love building projects that combine technology with real-world use cases
-- 📚 Continuous learner and technology enthusiast
+- 💻 Software development and problem solving
+- 🤖 Artificial Intelligence, Machine Learning and Computer Vision
+- 📊 Data analytics and data-driven applications
+- 🌐 Web and application development
+- 🧠 Data Structures, Algorithms, OOP, DBMS and Computer Networks
+- 📚 Continuous learning through projects and hands-on practice
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
+### 👨‍💻 Programming
 
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,dart,sql" />
+`C` `C++` `Java` `Python` `JavaScript` `Dart` `SQL`
 
 ### 🌐 Web & Application Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,php,flutter" />
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `Flutter` `Bootstrap`
 
-### 🤖 AI / ML & Data
+### 🤖 AI/ML & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-<br/>
+### 🗄️ Databases & Data Platforms
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+`SQL` `SQLite` `MongoDB` `RDBMS` `NoSQL` `ETL` `Data Warehouse` `Data Lake`
 
-### 🗄️ Databases & Cloud
+### ☁️ Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws,azure,oracle" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
+`AWS` `Microsoft Azure` `Oracle Cloud` `Git` `GitHub` `VS Code` `Google Colab` `Kaggle` `Postman`
 
 ---
 
-# 🛠️ Featured Projects
+## ⭐ Featured Projects
 
-## 🤖 AI-Powered Smart Retail Surveillance & Personalized Recommendations
+> These are projects I am building and documenting as part of my practical software and AI/ML portfolio. Results and performance metrics are reported only after they have been measured.
 
-**Python • Computer Vision • Deep Learning • AI/ML**
+### 💻 Software Development & AI/ML Practice
 
-An intelligent retail surveillance concept designed to combine real-time customer monitoring with AI-driven analysis and personalized in-store recommendations.
+A structured workspace for Python, Java, DSA, testing, refactoring and AI/ML experiments.
 
-**Highlights**
-- 🎥 Real-time video analysis
-- 👤 Person and activity detection
-- 🧠 AI-based customer behavior analysis
-- 🎯 Personalized recommendations
-- ☁️ Cloud-oriented analytics architecture
+**Focus:** Python • Java • DSA • OOP • Testing • Clean Code
 
----
+🔗 **[View Repository](https://github.com/Vikas3655v/Vikas)**
 
-## 🎯 Real-Time Object Detection & Activity Recognition
+### 🤖 AI-Powered Smart Retail Surveillance & Personalized Recommendations
 
-**Python • OpenCV • YOLO • Deep Learning**
+A planned AI/Computer Vision project combining retail surveillance concepts with customer-behaviour analysis and personalized recommendations.
 
-A computer vision system focused on real-time object detection and activity recognition for security and monitoring applications.
+**Focus:** Python • Computer Vision • Deep Learning • AI/ML
 
-**Highlights**
-- 🎥 Real-time video processing
-- 🎯 Object detection
-- 🧠 Activity recognition
-- 🚨 Security-focused monitoring
-- 📊 Visual analytics
+**Status:** Portfolio project planned/in development — implementation and measured results will be added as completed.
 
----
+### 🎯 Real-Time Object Detection & Activity Recognition
 
-## 🌱 Plant Disease Recognition
+A planned computer-vision project for real-time object detection and activity-recognition research.
 
-**Python • TensorFlow • Keras • CNN • OpenCV**
+**Focus:** Python • OpenCV • YOLO • Deep Learning
 
-A deep learning image-classification project designed to recognize plant diseases from leaf images.
+**Status:** Planned/in development.
 
-**Highlights**
-- 🌿 Image preprocessing
-- 🧠 CNN-based classification
-- 📊 Dataset analysis
-- 🔬 Model training and evaluation
-- 📈 Performance analysis
+### 🌱 Plant Disease Recognition using Deep Learning
 
----
+A planned image-classification project for plant disease recognition using a deep-learning workflow.
 
-## 🩺 Breast Cancer Detection using CNN
+**Focus:** Python • TensorFlow/Keras • CNN • OpenCV
 
-**Python • TensorFlow • Keras • Deep Learning**
+**Status:** Planned/in development.
 
-A deep learning project focused on binary classification of medical images for breast cancer detection research.
+### 🛡️ Advanced Counter-Drone System for a Localized Network
 
----
+A research-oriented project exploring localized-network concepts for counter-drone detection and monitoring. Implementation details will be documented as they are developed and validated.
 
-## 🎨 DCGAN Image Generation
+**Focus:** Networking • Computer Vision • AI/ML • Security Research
 
-**Python • TensorFlow • Keras • CelebA**
+**Status:** Research/planning stage.
 
-Implemented a Deep Convolutional Generative Adversarial Network to explore synthetic image generation using the CelebA dataset.
+### 📚 Library Management System
+
+A software-development project focused on core library-management workflows such as books, members and borrowing operations. Existing implementation work is currently located inside the `Vikas1` practice repository.
+
+**Focus:** Java • OOP • Application Development
+
+**Status:** Existing practice implementation; candidate for extraction into a dedicated portfolio repository after cleanup and validation.
 
 ---
 
-## 🔐 RSA Encryption & Secure Communication
-
-**Python • Cryptography • RSA**
-
-Implemented RSA-based encryption and decryption to understand public-key cryptography and secure data communication.
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vikas3655v&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas3655v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -165,69 +130,49 @@ Implemented RSA-based encryption and decryption to understand public-key cryptog
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vikas3655v/Vikas3655v/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Vikas3655v/Vikas3655v/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
----
-
-# 🎓 Education
-
-### 🏫 Alliance University — Bengaluru
-
-**Bachelor's Degree in Information Technology**
-
-📍 Bengaluru, Karnataka  
-🎓 **CGPA: 8.4**
+> My contribution graph is intended to represent genuine development work. I do not use artificial commits, backdated commits, or meaningless changes to inflate activity.
 
 ---
 
-# 💼 Internship Experience
+## 🎓 Education
 
-### 🤖 AI & ML Development Intern
-**March 2024 – May 2024**
+**Alliance University — Bengaluru**  
+Bachelor's Degree in Information Technology  
+**CGPA: 8.4**
 
-- Developed and tested AI/ML models for data analysis and prediction tasks.
-- Implemented machine learning algorithms using Python and relevant AI frameworks.
+---
+
+## 💼 Internship Experience
+
+### AI & ML Development Intern — March 2024 to May 2024
+
+- Developed and tested AI/ML models for data-analysis and prediction tasks.
+- Implemented machine-learning algorithms using Python and relevant AI frameworks.
 - Worked on model evaluation and performance improvement.
-- Collaborated with the team to analyze results and present project findings.
+- Collaborated on analysis and presentation of project findings.
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-| Certification | Platform |
-|---|---|
-| ☁️ Oracle Cloud Infrastructure 2025 – Generative AI Professional | Oracle |
-| 🤖 Google AI & Machine Learning Certification | Google |
-| 📊 IBM Data Analytics with Excel and R Professional Certificate | Coursera |
-| 🐍 Python for Everybody | Coursera |
-| ☁️ Microsoft Azure Developer Associate (AZ-204) – Exam Preparation | Coursera |
-| 🗄️ Oracle Data Platform 2025 Foundations Associate | Oracle |
+- Oracle Cloud Infrastructure 2025 — Generative AI Professional
+- Google AI & Machine Learning Certification
+- IBM Data Analytics with Excel and R Professional Certificate — Coursera
+- Python for Everybody — Coursera
+- Microsoft Azure Developer Associate (AZ-204) — Exam Preparation — Coursera
+- Oracle Data Platform 2025 Foundations Associate
 
 ---
 
-# 🏆 Interests & Activities
-
-<div align="center">
-
-🏸 **Badminton** &nbsp;&nbsp; ♟️ **Chess** &nbsp;&nbsp; 🏓 **Table Tennis**
-
-📚 **Reading** &nbsp;&nbsp; 🎵 **Music** &nbsp;&nbsp; 🎤 **Singing**
-
-🏏 **Cricket** &nbsp;&nbsp; 🎬 **Movies** &nbsp;&nbsp; ✈️ **Travelling**
-
-</div>
-
----
-
-# 🧠 Core Computer Science
-
-<div align="center">
+## 🧠 Core Computer Science
 
 `Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS`
 
@@ -235,44 +180,49 @@ Implemented RSA-based encryption and decryption to understand public-key cryptog
 
 `RDBMS` • `NoSQL` • `Cloud Computing` • `ETL`
 
+---
+
+## 📚 Current Focus
+
+- Building portfolio-quality software projects
+- Strengthening Python and Java fundamentals
+- Practising DSA and problem solving
+- Developing reproducible AI/ML experiments
+- Improving testing, refactoring and documentation
+- Making small, genuine open-source contributions
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm interested in **software development, AI/ML, data analytics, and technology roles** where I can contribute to real products, learn from experienced engineers, and grow through hands-on engineering work.
+
+---
+
+## 🏆 Personal Interests
+
+🏸 Badminton • ♟️ Chess • 🏓 Table Tennis  
+📚 Reading • 🎵 Music • 🎤 Singing  
+🏏 Cricket • 🎬 Movies • ✈️ Travelling
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Vikas3655v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikas-handage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vikashandage06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/Vikas3655v">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🚀 Build. Learn. Test. Improve.
 
-<a href="https://www.linkedin.com/in/vikas-handage">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:vikashandage06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 💡 My Goal
-
-<div align="center">
-
-### **"Build technology that solves real-world problems, keep learning, and create meaningful impact."** 🚀
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories and connect with me.**
+**Building practical technology with a focus on software engineering and AI.**
 
 </div>
