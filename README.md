@@ -4,7 +4,7 @@
 
 ### Software Developer • AI/ML Enthusiast • Data Analytics
 
-I build practical software, AI/ML and data-driven applications with a focus on clean implementation, problem solving, testing and continuous learning.
+I build practical software and AI/ML projects with a focus on clean implementation, problem solving, testing, and continuous learning.
 
 <a href="https://github.com/Vikas3655v"><img src="https://img.shields.io/badge/GitHub-Vikas3655v-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vikas-handage"><img src="https://img.shields.io/badge/LinkedIn-Vikas%20Handage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,54 +16,33 @@ I build practical software, AI/ML and data-driven applications with a focus on c
 
 ## 👨‍💻 About Me
 
-I'm an **Information Technology graduate from Alliance University, Bengaluru** interested in software development, AI/ML, computer vision, data analytics and building useful application solutions.
+I'm an **Information Technology graduate from Alliance University, Bengaluru**. My interests include software development, AI/ML, computer vision, data analytics, and building useful web and application solutions.
 
-- 💻 Software development & problem solving
-- 🤖 AI/ML & computer vision
-- 📊 Data analytics & data-driven applications
-- 🧠 DSA, OOP, DBMS, OS & computer networks
-- 🧪 Testing, debugging & maintainable code
-- 🚀 Building portfolio-quality projects
+- 💻 Software development and problem solving
+- 🤖 AI/ML and computer vision
+- 📊 Data analytics and data-driven applications
+- 🧠 DSA, OOP, DBMS, operating systems and computer networks
+- 🧪 Testing, debugging, documentation and maintainable code
+- 🚀 Building portfolio-quality projects and improving engineering skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
+`C++` `Java` `Python` `JavaScript` `SQL`
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,sql" />
-</p>
+### Web & Application Development
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `Flutter` `Bootstrap`
 
-### 🌐 Web & Application Development
+### AI/ML & Data
+`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,bootstrap" />
-</p>
+### Databases & Cloud
+`MySQL` `SQLite` `MongoDB` `RDBMS` `NoSQL` `AWS` `Microsoft Azure` `Oracle Cloud`
 
-### 🤖 AI / ML & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas" />
-</p>
-
-`Matplotlib` `Seaborn` • Computer Vision • Deep Learning • Recommendation Systems
-
-### 🗄️ Databases & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,aws,azure,oracle" />
-</p>
-
-`RDBMS` `NoSQL` `ETL` `Cloud Computing`
-
-### 🔧 Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
-`Google Colab` `Kaggle`
+### Developer Tools
+`Git` `GitHub` `VS Code` `Postman` `Google Colab` `Kaggle`
 
 ---
 
@@ -75,40 +54,31 @@ An intelligent retail analytics platform combining **YOLO-based computer vision,
 
 **Highlights:** Detection → tracking → event filtering → session aggregation → recommendation engine → analytics dashboard.
 
-**Tech:** Python • YOLO • OpenCV • Computer Vision • Recommendation Systems • Streamlit
-
+**Tech:** Python • YOLO • OpenCV • Computer Vision • Recommendation Systems • Streamlit  
 🔗 [View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/smart-retail-surveillance)
 
-### 🌱 Plant Disease Recognition
-
-Deep-learning image-classification project with transfer learning, evaluation, inference and an interactive Streamlit application.
-
-**Tech:** Python • TensorFlow • MobileNetV2 • Scikit-learn • Streamlit
-
-🔗 [View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/plant-disease-recognition)
-
-### 🎯 Real-Time Object Detection & Activity Analysis
-
-Computer-vision pipeline for webcam/video inference, structured detection events and downstream analysis.
-
-**Tech:** Python • YOLO • OpenCV
-
-🔗 [View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/object-detection-activity-recognition)
-
 ### 📚 Library Management System
+Java application demonstrating object-oriented design, book management, validation, collections and unit testing.
 
-Java console application demonstrating object-oriented design, collections, validation and unit testing.
-
-**Tech:** Java • Maven • JUnit 5 • OOP
-
+**Tech:** Java • Maven • JUnit 5 • OOP  
 🔗 [View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/library-management-system)
 
+### 🌱 Plant Disease Recognition
+Deep-learning image-classification project with training, evaluation, inference and an interactive application workflow.
+
+**Tech:** Python • TensorFlow • CNN • Streamlit  
+🔗 [View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/plant-disease-recognition)
+
+### 🎯 Object Detection & Activity Recognition
+Computer-vision pipeline for video inference and detection-event logging, with activity analysis planned as a future extension.
+
+**Tech:** Python • YOLO • OpenCV  
+🔗 [View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/object-detection-activity-recognition)
+
 ### 🛡️ Counter-Drone Local Network Monitoring
+Defensive network-monitoring prototype focused on telemetry anomaly detection and alert generation.
 
-Defensive telemetry-monitoring prototype focused on anomaly detection, logging and alert generation.
-
-**Tech:** Python • Telemetry Analysis • Networking Concepts
-
+**Tech:** Python • Telemetry Analysis • Networking Concepts  
 🔗 [View Project](https://github.com/Vikas3655v/Vikas/tree/main/projects/counter-drone-local-network)
 
 ---
@@ -116,7 +86,8 @@ Defensive telemetry-monitoring prototype focused on anomaly detection, logging a
 ## 🎓 Education
 
 **Alliance University, Bengaluru**  
-Bachelor's Degree in Information Technology • **CGPA: 8.4**
+Bachelor's Degree in Information Technology  
+**CGPA: 8.4**
 
 ---
 
@@ -156,7 +127,7 @@ Bachelor's Degree in Information Technology • **CGPA: 8.4**
 - Practising DSA and problem solving
 - Developing reproducible AI/ML experiments
 - Improving testing, refactoring and documentation
-- Building intelligent computer-vision and recommendation systems
+- Making genuine open-source contributions
 
 ---
 
